@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>075F2CCC-575F-42E8-9675-A5A38A187820</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SWNinePatchImageFactory</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>56B9299B-38EB-4178-BBA2-0578C142C8CC</key>
+		<string>https://github.com/shiami/SWNinePatchImageFactory.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SWNinePatchImageFactorySample/SWNinePatchImageFactory.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>56B9299B-38EB-4178-BBA2-0578C142C8CC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shiami/SWNinePatchImageFactory.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>56B9299B-38EB-4178-BBA2-0578C142C8CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>56B9299B-38EB-4178-BBA2-0578C142C8CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SWNinePatchImageFactory</string>
+		</dict>
+	</array>
+</dict>
+</plist>
