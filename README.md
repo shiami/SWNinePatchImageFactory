@@ -23,6 +23,8 @@ Use the SWNinePatchImageFactory class to create resizable UIImage from 9-patch P
 Or directly use the SWNinePatchImageView class as the custom class in your Interface Builder,
 and also put the image's filename in its image field.
 
+You can check out the both ways in the sample project.
+
 LICENSE
 =======================
 
